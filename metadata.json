@@ -1,0 +1,6 @@
+{
+  "name": "KeySight 3D",
+  "description": "Native 3D piano learning studio with real-time acoustic pitch detection, 88-key interactive keyboard, and sheet music capture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
